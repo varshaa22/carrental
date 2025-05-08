@@ -190,7 +190,7 @@ function CarBooking() {
                 onChange={e => setDriveMode(e.target.value)}
               >
                 <option value="SELF">SELF</option>
-                <option value="WITH_DRIVER">WITH DRIVER</option>
+                <option value="DRIVER">DRIVER</option>
               </select>
             </div>
 
