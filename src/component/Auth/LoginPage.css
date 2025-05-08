@@ -1,0 +1,19 @@
+.login-wrapper {
+    background-color: #1e2b38; /* dark blue background */
+  }
+  
+  .login-card {
+    width: 400px;
+    background-color: transparent;
+  }
+  
+  .custom-input {
+    background-color: #2c3e50;
+    border: 1px solid #4b6584;
+    color: white;
+  }
+  
+  .custom-input::placeholder {
+    color: #bdc3c7;
+  }
+  
